@@ -12,7 +12,7 @@ import requests
 
 
 
-prediction_model = pickle.load(open("C:\\Users\\anand\\Desktop\\ppdd\\stacking_clf (1).sav", "rb"))
+prediction_model = pickle.load(open("stacking_clf.sav", "rb"))
 
 #sidebar navigavation
 with st.sidebar:
