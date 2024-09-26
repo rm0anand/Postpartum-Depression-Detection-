@@ -1,9 +1,13 @@
-numpy==1.24.3
-pandas==2.0.3
 matplotlib==3.7.1
 seaborn==0.12.2
 scikit-learn==1.2.2
 xgboost==1.7.5
 pickle-mixin==1.0.2
-
+﻿numpy==1.26.3
+pandas==2.1.4
+plotly==5.18.0
+protobuf==4.25.1
+requests==2.31.0
+streamlit==1.29.0
+streamlit-option-menu==0.3.6
 streamlit==1.25.0
