@@ -6,9 +6,7 @@ import warnings
 import pandas as pd
 from io import StringIO
 import requests
-# from joblib import load
 
-# prediction_model = load("C:\\Users\\anand\\Downloads\\model.joblib")
 
 
 
